@@ -268,7 +268,6 @@ CREATE TABLE Receita (
       <td align="center"><a href="https://github.com/GabrielaRBLemos"><img src="https://github.com/GabrielaRBLemos.png" width="auto" height="8.25%"/><br>Gabriela R. B. Lemos</a></td>
       <td align="center"><a href="https://github.com/mlrlima/"><img src="https://github.com/mlrlima.png" width="auto" height="8.25%"/><br>Maria Luiza Lima</a></td>
       <td align="center"><a href="https://github.com/nodemi-alt"><img src="https://github.com/nodemi-alt.png" width="auto" height="8.25%"/><br>Matheus Veríssimo</td>
-      <td>Miguel Reis</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/rafaelsampa"><img src="https://github.com/rafaelsampa.png" width="auto" height="8.25%"/><br>Rafael Sampaio</a></td>
